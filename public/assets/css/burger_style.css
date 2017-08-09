@@ -1,0 +1,34 @@
+.jumbotron{
+	background-color: red;
+}
+body{
+	background-color: yellow;
+}
+
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+#burgerName{
+	font-size:20px; 
+	color:red; 
+}
+#freshBurger{
+font-size:20px; 
+	color:green;	
+}
+
+.label {
+  font-weight: bold;
+}
+
+.wrapper{
+	text-align:center;
+}
+.form-group {
+  margin: 10px;
+  
+  
+}
